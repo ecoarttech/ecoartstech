@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eco-Arts Tech</h1>
 <h3 align="center">Eco-Arts Tech seeks to inspire young generation to participate in sustainable environment conservation and tourism through the use of technology, artificial intelligence (AI), machine learning, and deep learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ecoarttech&label=Profile%20views&color=0e75b6&style=flat" alt="ecoarttech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickecoarts&label=Profile%20views&color=0e75b6&style=flat" alt="ecoarttech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ecoarttech" alt="ecoarttech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrickecoarts" alt="ecoarttech" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ecoarts6" target="blank"><img src="https://img.shields.io/twitter/follow/ecoarts6?logo=twitter&style=for-the-badge" alt="ecoarts6" /></a> </p>
 
